@@ -1,0 +1,3 @@
+﻿  Infinite_maze.cpp
+A:\jipp2\Bezkres\Infinite_maze.cpp\Infinite_maze.cpp\Infinite_maze.cpp(132,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Infinite_maze.cpp.vcxproj -> A:\jipp2\Bezkres\Infinite_maze.cpp\x64\Debug\Infinite_maze.cpp.exe
